@@ -1,0 +1,11 @@
+import Stack from "./stack.js";
+const newStack = new Stack();
+newStack.push("Newton");
+newStack.pop();
+console.log(newStack.size());
+newStack.push("Bepari");
+console.log(newStack.peek());
+console.log(newStack.size());
+console.log(newStack.isEmpty());
+newStack.pop();
+console.log(newStack.isEmpty());

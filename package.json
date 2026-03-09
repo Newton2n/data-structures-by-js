@@ -1,0 +1,12 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "This repository tracks my progress as I learn Data Structures and Algorithms (DSA) using JavaScript. I am currently following the **\"Data Structures in JavaScript\"** series by **Ashish Saluja (IT Guru)**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
